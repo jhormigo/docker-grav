@@ -1,4 +1,4 @@
-# Official Docker Image for Grav
+# Fork of Image for Grav 
 
 This currently is pretty minimal and uses:
 
